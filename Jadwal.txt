@@ -1,0 +1,51 @@
+Senin 	: Push
+	Reguler Push-Ups
+	close Grip Push-Ups
+	Decline Push-Ups
+	Incline Push-Ups
+	Diamond Push-Ups
+
+	Lateral Raises
+	Front Raises
+	
+	Overhead Extensions
+	Triceps Extensoins
+
+Selasa 	: Pull
+	Pull-Ups
+	Chin-Ups
+	Neutral Grip Pull-Up
+	Shrugs 
+	Rear Delt Row
+	Deadlift
+	Pull Face
+
+Rabu	: Leg
+	Narrow Stance
+	Cannon Ball
+	Sumo Squats
+	Calf Raises
+
+Kamis 	: Rest
+Jum'at	: Rest
+
+Sabtu 	: Arm
+	Triceps Extensoins
+	Overhead Extensions
+	
+	Lateral Raises
+	Front Raises
+
+	Dumbbell Curl
+	Hammer Curl
+
+	Negative Wrist Curl
+	Reverse Wrist Curl
+	Dumbbell Twist Curl
+	Partial Hammer Curl
+
+Pekan 	: Cardio + ABS
+	Jump Rope
+
+	Knee Raises
+	Russian Twist
